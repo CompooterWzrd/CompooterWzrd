@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Robotics, computers, or game design
 - 📫 How to reach me: ... GMail: yorkivan23@gmail.com
 
-![CompooterWzrd's GitHub stats](https://github-readme-stats.vercell.app/api?username=compooterwzrd$show_icons=true&theme=radical)
+![00T's GitHub stats](https://github-readme-stats.vercell.app/api?username=compooterwzrd$show_icons=true&theme=radical)
