@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Robotics, computers, or game design
 - 📫 How to reach me: ... GMail: yorkivan23@gmail.com
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=CompooterWzrd)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CompooterWzrd&theme=black-ice&border_radius=20&mode=weekly)](https://git.io/streak-stats)
