@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ... FRC Robotics Team 5676
 - 🌱 I’m currently learning ... gdscript for Godot and C++
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on ... Game design and web projects (design)
 - 💬 Ask me about ... Robotics, computers, or game design
 - 📫 How to reach me: ... GMail: yorkivan23@gmail.com
