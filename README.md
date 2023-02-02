@@ -29,3 +29,16 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=CompooterWzrd&theme=black-ice&border_radius=20&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CompooterWzrd&layout=compact&theme=black-ice&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
+
+####CODE
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
