@@ -1,4 +1,4 @@
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://[iampavangandhi.github.io](https://dinodev.wixsite.com/yourlocalarcade-1)/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://[https://dinodev.wixsite.com/yourlocalarcade-1]
 
 ![image](https://user-images.githubusercontent.com/124103219/216067709-84600762-28a5-4107-b661-0cd3d4d02ed1.png)
 # Welcome to my profile!
