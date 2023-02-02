@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com?user=CompooterWzrd&theme=tokyonight&border_radius=20&mode=weekly)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CompooterWzrd&layout=compact&theme=tokyonight&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=CompooterWzrd&theme=tokyonight&border_radius=20)](https://github.com/Sl66p)
+[![My Trophies](https://github-profile-trophy.vercel.app/?username=CompooterWzrd&theme=tokyonight&border_radius=20)](https://github.com/Sl66p)
+
+![Profile-Visits](https://profile-counter.glitch.me/CompooterWzrd/count.svg)
 
 
